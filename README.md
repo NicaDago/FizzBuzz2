@@ -1,1 +1,1 @@
-# FizzBuzz2
+# Simple FizzBuzz Game with animation
